@@ -1879,10 +1879,10 @@ h5,
 }
 
 .single-content h1 {
-  font-size: 2rem;
+  font-size: 3rem;
   color: var(--color-black);
 }
 
 .single-content {
-  font-size: .9rem;
+  font-size: 1rem;
 }

@@ -1135,7 +1135,7 @@ h5,
 
 .header-top>.container {
   padding-top: 30px;
-  padding-bottom: 30px;
+  /* padding-bottom: 30px; */
 }
 
 .header-top .quick-contact-icons .icon {
